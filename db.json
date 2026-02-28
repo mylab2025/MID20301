@@ -4,7 +4,7 @@
       "MaterialTitle": {
         "Name": "MOSFET (P-type)",
         "PN": "ZXMP10A16KTC",
-        "MF": "DIODES INC."
+        "MF": "Diodes Incorporated"
       },
       "MID": "MID20301",
       "MD": "ZXMP10A16KTC is P channel MOSFET with VDSS = 100V, RDS = 0.285R, ID = 4.2A || KM265272||\r\n• DC-DC converters\r\n • Power management functions\r\n • Disconnect switches\r\n • Motor control",
@@ -12,7 +12,7 @@
       "MQNT": 9,
       "MCost": 132.13,
       "MQATG": "#CLASS_0",
-      "ML": "",
+      "ML": "120",
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20301%2Fmain%2FZXMP10A16K-93218.pdf",
       "MAF1": "",
       "MAF2": "",
